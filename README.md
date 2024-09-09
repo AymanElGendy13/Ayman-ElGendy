@@ -2,7 +2,7 @@
 
 Instabug Challenge
 This repository contains both manual and automated testing components for the project.
-Manual Testing
+Manual Testing Part
 
 The manual testing section includes the following:
 
@@ -11,7 +11,7 @@ The manual testing section includes the following:
     Test Report: A comprehensive report of the manual test cases.
     Bug Report: Includes an Excel sheet for detailed bug tracking, and a PDF for visual inspection.
 
-Automation Testing
+Automation Testing Part
 
 The automation testing section includes the following:
 
